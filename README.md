@@ -6,10 +6,10 @@ Introduction page of a challenging text-to-SQL dataset: KaggleDBQA. The original
 
 
 KaggleDBQA is a **challenging cross-domain and complex evaluation dataset of real Web databases, with domain-specific data types, original formatting, and unrestricted questions**. 
-It expands upon contemporary cross-domain text-to-SQL datasets in three key aspects: 
-(1) Its databases are pulled from real-world data sources and not normalized.
-(2) Its questions are authored in environments that mimic natural question answering.
-(3) It also provides database documentation which contain rich in-domain knowledge.
+It expands upon contemporary cross-domain text-to-SQL datasets in three key aspects: <br />
+(1) Its databases are pulled from real-world data sources and not normalized. <br />
+(2) Its questions are authored in environments that mimic natural question answering. <br />
+(3) It also provides database documentation which contain rich in-domain knowledge. <br />
 
 ![task_overview](overview.png)
 
