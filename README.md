@@ -1,12 +1,17 @@
 # KaggleDBQA
-Introduction page of a challenging text-to-SQL dataset: KaggleDBQA. The original dataset page is hosted at [Mircrosoft](https://www.microsoft.com/en-us/research/publication/kaggledbqa-realistic-evaluation-of-text-to-sql-parsers/).
+Introduction page of a challenging text-to-SQL dataset: KaggleDBQA. The original dataset page is hosted at [Microsoft](https://www.microsoft.com/en-us/research/publication/kaggledbqa-realistic-evaluation-of-text-to-sql-parsers/).
 
-[**Data**](#Data-Format) | [**Download**](https://dbqapublic.blob.core.windows.net/dbqa/kaggle-dbqa-20210726.zip) | [**Evaluation**](#evaluation) |
-[**Paper**](https://aclanthology.org/2021.acl-long.176/) | [**Citation**](#Citation-and-Contact)
-
+[**Data**](#Data-Format) | [**Download Link**](https://dbqapublic.blob.core.windows.net/dbqa/kaggle-dbqa-20210726.zip) | [**Evaluation**](#evaluation) | [**Paper**](https://aclanthology.org/2021.acl-long.176/) | [**Citation**](#Citation-and-Contact)
 
 
-KaggleDBQA is a **cross-domain and complex evaluation dataset of real Web databases, with domain-specific data types, original formatting, and unrestricted questions**. It also provides **database documentation which contain rich in-domain knowledge**. The nature of obscure and abbreviated column/table names makes KaggleDBQA challenging to existing Text-to-SQL parsers. For more details, please see our [paper](https://aclanthology.org/2021.acl-long.176/).
+
+KaggleDBQA is a **challenging cross-domain and complex evaluation dataset of real Web databases, with domain-specific data types, original formatting, and unrestricted questions**. 
+It expands upon contemporary cross-domain text-to-SQL datasets in three key aspects: 
+(1) Its databases are pulled from real-world data sources and not normalized.
+(2) Its questions are authored in environments that mimic natural question answering.
+(3) It also provides database documentation which contain rich in-domain knowledge.
+
+![task_overview](overview.png)
 
 ## Data Format
 
