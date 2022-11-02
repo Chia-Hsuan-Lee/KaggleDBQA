@@ -1,7 +1,7 @@
 # KaggleDBQA
 Introduction page of a challenging text-to-SQL dataset: KaggleDBQA. The original dataset page is hosted at [Microsoft](https://www.microsoft.com/en-us/research/publication/kaggledbqa-realistic-evaluation-of-text-to-sql-parsers/).
 
-[**Data**](#Data-Format) | [**Download Link**](https://dbqapublic.blob.core.windows.net/dbqa/kaggle-dbqa-20210726.zip) | [**Evaluation**](#evaluation) | [**Paper**](https://aclanthology.org/2021.acl-long.176/) | [**Citation**](#Citation-and-Contact)
+[**Data**](#Data-Format) | [**Download Link**](https://dbqapublic.blob.core.windows.net/dbqa/kaggle-dbqa-20210726.zip) | [**Evaluation**](#evaluation) | [**Paper**](https://aclanthology.org/2021.acl-long.176/) | [**Citation**](#Citation-and-Contact) | [Leaderboard](https://paperswithcode.com/sota/text-to-sql-on-kaggledbqa)
 
 
 
