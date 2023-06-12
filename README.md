@@ -1,9 +1,8 @@
 # KaggleDBQA
-Introduction page of a challenging text-to-SQL dataset: KaggleDBQA. The original dataset page is hosted at [Microsoft](https://www.microsoft.com/en-us/research/publication/kaggledbqa-realistic-evaluation-of-text-to-sql-parsers/).
+Introduction and data download page of a challenging text-to-SQL dataset: KaggleDBQA. 
+The original dataset page is hosted at [Microsoft](https://www.microsoft.com/en-us/research/publication/kaggledbqa-realistic-evaluation-of-text-to-sql-parsers/).
 
-[**Data**](#Data-Format) | [**Download Link**](https://dbqapublic.blob.core.windows.net/dbqa/kaggle-dbqa-20210726.zip) | [**Evaluation**](#evaluation) | [**Paper**](https://aclanthology.org/2021.acl-long.176/) | [**Citation**](#Citation-and-Contact) | [Leaderboard](https://paperswithcode.com/sota/text-to-sql-on-kaggledbqa)
-
-
+[**Data**](#Data-Format) | [**Evaluation**](#evaluation) | [**Paper**](https://aclanthology.org/2021.acl-long.176/) | [**Citation**](#Citation-and-Contact) | [Leaderboard](https://paperswithcode.com/sota/text-to-sql-on-kaggledbqa)
 
 KaggleDBQA is a **challenging cross-domain and complex evaluation dataset of real Web databases, with domain-specific data types, original formatting, and unrestricted questions**. 
 It expands upon contemporary cross-domain text-to-SQL datasets in three key aspects: <br />
@@ -149,7 +148,7 @@ Each file in `examples/` contains the following fields:
 
 
 ### Database Content
-All the database content stored in SQLite database file under `databases/`.
+All the database content stored in SQLite database file under `databases/`. Please download the databases [here](https://drive.google.com/drive/folders/1g-Y9Up2_mtQijqUXBNcTWmsFIvsFnV7f?usp=sharing).
 
 
 ## Evaluation
